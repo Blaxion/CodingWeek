@@ -1,0 +1,45 @@
+#divOrange{
+    background-color: orange;
+    height: 500px;
+    position: relative;
+}
+
+#Para{
+    background-color: white;
+    width: 200px;
+    position: absolute;
+    left: 40%;
+    top: 40%;
+    text-align: center;
+}
+
+#divJaune{
+    background-color: yellow;
+    height: 500px;
+    position: relative;
+}
+
+#divRose{
+    background-color: pink;
+    height: 50px;
+    width: 50px;
+    position: sticky;
+    top: 0;
+    left: 0;
+    
+
+}
+
+#divVerte{
+    background-color: green;
+    height: 1000px;
+}
+
+#divBleu{
+    height: 100px;
+    width: 100px;
+    position: fixed ;
+    right: 0;
+    bottom: 0;
+    background-color: blue;
+}

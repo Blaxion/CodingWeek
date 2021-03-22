@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+div{
+    align-self: center;
+}
+
+.vert{color: green;}
+
+.rouge{color:red}
+
+.mesParagraphes{
+    background-color: orange;
+    text-align: center;
+    width: 66%;
+    margin: auto;
+}
+
+.mesListes{
+    background-color: skyblue;
+    width: 60%;
+    height: 200px;
+    margin: auto;
+}
+.pBlanc{
+    color: snow;
+}
+.liste{
+    font-size: 25px ;
+}

@@ -1,0 +1,36 @@
+.divJaune{
+    height: 200px;
+    background-color: yellow;
+}
+.divRouge{
+    width: 25%;
+    padding: 35px;
+    background-color: red;
+
+}
+.divVerte{
+    background-color: green;
+    width: 100px;
+    height: 100px; 
+}
+.divRose{
+    width: 55%;
+    height: 230px;
+    background-color: pink;
+}
+.pBlanc{
+    color: white;
+    margin-top: 0%;
+}
+.divNoir{
+    background-color: black;
+    height: 80%;
+    width: 600px;
+    margin: auto 
+}
+.divMauve{
+    background-color: blueviolet;
+    margin: 50px;
+    padding: 50px;
+    width: 400px;
+}

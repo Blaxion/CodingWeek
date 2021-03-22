@@ -1,0 +1,25 @@
+#txtCenter{
+    text-align: center;
+    
+}
+
+#exo1{
+    border-style: dashed ;
+    text-align: center;  
+}
+
+#exo3{
+    background-color: black;
+    color: white;
+}
+
+.rougeOvale{
+    background-color: red;
+    color: white;
+    border-style: outset;
+    border-radius: 50%;
+}
+
+#pLong{
+    border-style: solid;
+}

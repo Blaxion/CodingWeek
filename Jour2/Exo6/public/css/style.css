@@ -1,0 +1,28 @@
+#divMauve{
+    background-color: blueviolet;
+    height: 500px;
+    position:relative;
+}
+#divRouge{
+    background-color: red;
+    position:absolute;
+    left: 20%;
+    top: 10%;
+    height: 250px;
+    width: 450px;
+}
+#divMixte{
+    background-color: white;
+    height: 420px;
+    background-image: url("../img/thunder2.jpg");
+    background-repeat:repeat-x;
+    background-attachment:scroll;
+    background-position: bottom;
+} 
+#simpsons{
+    height: 850px;
+    background-image: url("../img/simpsons.jpeg") ;
+    background-attachment:fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

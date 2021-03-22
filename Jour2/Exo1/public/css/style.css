@@ -1,0 +1,26 @@
+#monTitre {
+    color: red;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 55px;
+}
+
+body{
+    background-color: rgb(226, 206, 118);
+}
+
+hr {
+    border-color: blue;
+}
+
+span {
+    color: rgb(241, 24, 205);
+    font-size: 12px;
+    text-decoration: underline;
+}
+
+.monParagraphe{
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}

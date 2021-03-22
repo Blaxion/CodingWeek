@@ -1,0 +1,85 @@
+/* containers */
+.containerNavBar{
+    height: 10vh;
+}
+.containerCarroussel{
+    padding-top: 10vh ;
+    height: 101vh;
+    background-color: black;
+}
+.containerFooter{
+    height: 500px;
+    background-color: black;
+    color: white;
+}
+.containerMembres{
+        padding-top: 10vh ;
+        background-color: white;
+}
+/* containers */
+
+
+/* logo WildPlay */
+.hypnotique {
+    -webkit-transition: -webkit-transform .5s ease-in-out;
+            transition:         transform .5s ease-in-out;
+  }
+.hypnotique:hover {
+    -webkit-transform: rotate(720deg);
+            transform: rotate(720deg);
+  }
+/* logo WildPlay */
+
+
+/* p-universelle */
+.wildPlayTitle{
+    font-family: 'Orbitron', cursive !important;
+    font-size: large;
+}
+/* p-universelle */
+
+
+/* Petit texte sur les slides d'intros */
+.petiteIntro{
+    margin-bottom: 20% !important;
+    font-size: xx-large !important;
+}
+/* Petit texte sur les slides d'intros */
+
+/* watchme */
+#divOrange{
+    background-image: url(../img/Lookatme.jpg);
+    height: 500px;
+    position: relative;
+}
+
+#divJaune{
+    background-image: url(../img/Lookatme.jpg);
+    height: 500px;
+    position: relative;
+}
+
+#divRose{
+    background-image: url(../img/Lookatme.jpg);
+    height: 350px;
+    width: 350px;
+    position: sticky;
+    top: 0;
+    left: 0;
+}
+
+#divVerte{
+    background-image: url(../img/Lookatme.jpg);
+    height: 1000px;
+}
+
+#divBleu{
+    height: 250px;
+    width: 250px;
+    position: fixed ;
+    right: 1;
+    bottom: 0;
+    background-image: url(../img/Lookatme.jpg);
+}
+
+/* watchme */
